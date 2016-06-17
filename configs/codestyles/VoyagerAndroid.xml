@@ -175,7 +175,7 @@
     <option name="WHILE_ON_NEW_LINE" value="true" />
     <option name="CATCH_ON_NEW_LINE" value="true" />
     <option name="FINALLY_ON_NEW_LINE" value="true" />
-    <option name="SPECIAL_ELSE_IF_TREATMENT" value="false" />
+    <option name="SPECIAL_ELSE_IF_TREATMENT" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="SPACE_WITHIN_ARRAY_INITIALIZER_BRACES" value="true" />
